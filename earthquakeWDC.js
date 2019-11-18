@@ -13,6 +13,7 @@
 
    
     });
- 
+  tableau.registerConnector(myConnector);
+
 });
 })();
